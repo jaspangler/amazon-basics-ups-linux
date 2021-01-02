@@ -20,6 +20,8 @@ sudo pwrstat -test
 ```
 # Adjusting Shutdown
 
+# Observations
+These UPS's do not appear in /sys like APC UPS's do. Perhaps this is a driver feature that would be possible.
 
 # References
 https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/
