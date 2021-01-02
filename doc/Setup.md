@@ -13,3 +13,13 @@ Install the CyberPower PowerPanel Personal package.
 wget https://dl4jz3rbrsfum.cloudfront.net/software/PPL-1.3.3-64bit.deb
 sudo dpkg -i PPL-1.3.3-64bit.deb
 ```
+# Testing
+This command will test the UPS and the shutdown function.
+```
+sudo pwrstat -test
+```
+# Adjusting Shutdown
+
+
+# References
+https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/
