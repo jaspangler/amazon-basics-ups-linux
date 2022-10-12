@@ -34,10 +34,12 @@ These UPS's do not appear in /sys like APC UPS's do. Perhaps this is a driver fe
 
 # Other Options
 
-Commands such as acpi, upower, and others may help on ARM devices such as Raspberry Pi.
+Commands such as acpi, upower, NUT, and others may help on ARM devices such as Raspberry Pi.
 
 # References
 
 Power Panel Personal for Linux - https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/
 
 How to Check Battery Status Using Linux Command Line - https://www.linuxjournal.com/content/how-check-battery-status-using-linux-command-line
+
+How to Monitor UPS with Raspberry Pi with NUT - https://www.howtoraspberry.com/2020/11/how-to-monitor-ups-with-raspberry-pi/
